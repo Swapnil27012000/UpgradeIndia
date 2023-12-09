@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "204534815917",
+    "firebase_url": "https://upgrade-india-6126c.firebaseio.com",
+    "project_id": "upgrade-india-6126c",
+    "storage_bucket": "upgrade-india-6126c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204534815917:android:d0a43dfb9bc1f09b17ba24",
+        "android_client_info": {
+          "package_name": "com.example.upgradeindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204534815917-aeipksgd01gi4dsju9fipi4gr6vonkbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHUpGDu-cstaaJilJFer0wczAGkpugQ1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204534815917-aeipksgd01gi4dsju9fipi4gr6vonkbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

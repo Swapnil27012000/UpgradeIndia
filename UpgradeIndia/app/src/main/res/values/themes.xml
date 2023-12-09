@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.UpgradeIndia" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+<!--        <item name="colorPrimary">@color/purple_500</item>-->
+<!--        <item name="colorPrimaryDark">@color/purple_700</item>-->
+<!--        <item name="colorAccent">@color/teal_200</item>-->
+
+
+        <item name="colorPrimary">#455cde</item>
+        <item name="colorPrimaryDark">#403d3d</item>
+        <item name="colorAccent">#c2bdbf</item>
+<!--        <item name="colorBlack">#000000</item>-->
+
+<!--        @color/-->
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
